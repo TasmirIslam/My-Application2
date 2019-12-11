@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play With Number</string>
+    <string name="play_with_number">Play With number</string>
+    <string name="submit">submit</string>
+</resources>
